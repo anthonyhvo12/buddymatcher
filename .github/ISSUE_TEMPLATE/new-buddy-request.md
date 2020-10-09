@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!--- INSTRUCTIONS
+<!--- INSTRUCTIONS - DO NOT EDIT HERE
 Please make an effort to fill out all the information below. 
 ** YOE: your number of professional years in the tech industry. Enter "Student" if you are a student.
 ** LeetCode experience: include the number of question solved and the highest level of difficulty you are currently comfortable with (easy/medium/hard) (e.g. 150 problems solved, mostly medium)
@@ -15,7 +15,7 @@ Please make an effort to fill out all the information below.
 ** Available time: your time zone and available time windows during the week (e.g. 9-10pm EST every Tue-Thur-Sat)
 ** Other: Any information you would like to share with potential buddies (your goals, activities you would like to do together, some details about your experience, etc.)
 ** Labels: Go to the Issues tab. Click on Labels and pick three labels that represent your professional experience, LeetCode experience, and time zone. This serves as the first layer of filters for potential buddies to match with you. The core team will add these labels to your issue as soon as possible.
----!>
+START EDITING BELOW---!>
 - YOE:
 
 - LeetCode experience: 
