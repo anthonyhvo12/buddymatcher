@@ -9,7 +9,7 @@ assignees: ''
 
 <!--- INSTRUCTIONS - DO NOT EDIT HERE
 Please make an effort to fill out all the information below. 
-** YOE: your number of professional years in the tech industry. Enter "Student" if you are a student.
+** YOE: your title (Software Engineer, Data Analyst, etc.) and years of experience. Enter "Student" if you are a student.
 ** LeetCode experience: include the number of question solved and the highest level of difficulty you are currently comfortable with (easy/medium/hard) (e.g. 150 problems solved, mostly medium)
 ** Expected commitment: how many hours per week you would like to study with your partner.
 ** Time zone: Your time zone (PST, EST, CST, Vietnam, etc.)
