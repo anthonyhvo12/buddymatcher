@@ -19,17 +19,18 @@ Please make an effort to fill out all the information below.
 ** Labels: Go to the Issues tab. Click on Labels and pick three labels that represent your professional experience, LeetCode experience, and time zone. This serves as the first layer of filters for potential buddies to match with you. The core team will add these labels to your issue as soon as possible.
 START EDITING BELOW---!>
 - YOE:
-
+<!--- automatic line break, do not delete ---!><br/>
 - LeetCode experience: 
-
+<!--- automatic line break, do not delete ---!><br/>
 - Expected commitment: 
-
+<!--- automatic line break, do not delete ---!><br/>
 - Time zone:
-
+<!--- automatic line break, do not delete ---!><br/>
 - Available time:
-
+<!--- automatic line break, do not delete ---!><br/>
 - Contact info:
-
+<!--- automatic line break, do not delete ---!><br/>
 - Other:
-
+<!--- automatic line break, do not delete ---!><br/>
 - Labels:
+<!--- automatic line break, do not delete ---!><br/>
