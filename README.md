@@ -5,6 +5,7 @@ VTS's system for matching students or professionals in technology as study buddi
 <br/>
 1. Visit github.com/lcparty/buddymatcher to access the buddy matcher.
 <br/>
+
 2. Click on the tab **Issues** to view the currently open buddy requests (we will call these requests **issues** in accordance with Github terminology).
 
 <img width="1232" alt="Screen Shot 2020-10-15 at 8 40 37 AM" src="https://user-images.githubusercontent.com/43098273/96065509-94edf880-0ec2-11eb-9ae1-9fe337f95f7a.png">
