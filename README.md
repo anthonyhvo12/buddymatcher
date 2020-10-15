@@ -1,5 +1,5 @@
 # VTS LeetCode Buddy Matcher
-VTS's system for matching students or professionals in technology as study buddies for LeetCode-style interview questions.
+A system by VTS for matching students or professionals in technology as study buddies for LeetCode-style interview questions.
 
 # How to use
 1. Visit github.com/lcparty/buddymatcher to access the buddy matcher.
