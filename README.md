@@ -23,7 +23,7 @@ A system by VTS for matching students or professionals in technology as study bu
 6. Once you submit the request, you can check in regularly on the buddy matcher  for comments from potential buddies. You will also be notified via the email address that you register for Github for all activities regarding issues that you have created or commented on. 
 
 7. Once you have found a match, please visit the issue and click on **Close issue** or **Close with comment** to mark the request as resolved as soon as possible.
-![closeissue](https://user-images.githubusercontent.com/43098273/96067937-fb741600-0ec4-11eb-944e-fc23295c19fd.png)
+![](https://user-images.githubusercontent.com/43098273/96068883-38d9a300-0ec7-11eb-9e5f-8fea6843f5d3.png)
 
 8. If your issue has not been resolved after a week, you can mention one of our moderators: **@anthonyhvo12 (Anthony Vo), @thle01 (Henry Le), @nghith95 (Nghi Truong), @** in a comment so that we can help facilitate the matching process. Please note that due to the high volume of activity on our tracker, we are unable to help with requests that are less than one week old.
 ![mod](https://user-images.githubusercontent.com/43098273/96068093-56a60880-0ec5-11eb-9568-b512f72a8986.png)
